@@ -4,5 +4,6 @@ public enum EventType {
     ORDER,
     DELIVERY,
     DISPATCH,
-    CANCEL
+    CANCEL,
+    CONFIG
 }
